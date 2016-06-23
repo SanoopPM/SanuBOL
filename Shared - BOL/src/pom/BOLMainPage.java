@@ -45,7 +45,7 @@ public class BOLMainPage {
 		Thread.sleep(2000);
 		Actions action=new Actions(driver);
 		action.moveToElement(navigatebutton).click(navigatebutton).perform();
-		
+		//
 		//dummy
 //		navigatebutton.click();
 	}
