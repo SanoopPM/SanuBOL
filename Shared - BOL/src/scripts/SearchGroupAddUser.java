@@ -75,14 +75,6 @@ public class SearchGroupAddUser extends BaseTest{
 					}
 				}
 			}
-
-
-		
-		
-		
-		
-		
-		
 	}
 
 }
