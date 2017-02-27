@@ -23,6 +23,8 @@ public class Test {
 				System.out.println("Enter the option PO / UC");
 				String i=sc.next().toLowerCase();
 				
+				System.out.println("Test");
+				
 				//Opening Brower
 //				System.setProperty("webdriver.ie.driver","./exefiles/IEDriverServer.exe");
 //				InternetExplorerDriver driver=new InternetExplorerDriver();
