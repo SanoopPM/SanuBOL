@@ -21,6 +21,7 @@ public class BaseTest {
 //		{
 			System.setProperty("webdriver.chrome.driver","./exefiles/chromedriver.exe");
 			driver=new ChromeDriver();
+			System.out.println("123");;
 //		}
 //		else if (browser.equals("IE")) 
 //		{
